@@ -1,0 +1,22 @@
+body{
+text-align: center;
+}
+
+marquee {
+font-family: comic sans ms;
+font-size: 20px;
+font-weight: 600;
+padding-top: 10px;
+position: fixed;
+}
+
+#mug {
+width: 300px;
+
+
+}
+
+h2 {
+font-family: Comic Sans Ms;
+font-weight: 600;
+}
